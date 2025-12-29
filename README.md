@@ -84,7 +84,7 @@ Recall
 
 F1 Score
 
-🧾 Results:
+🧾 Results:- 
 Classifier	Accuracy (%)	Precision	Recall	F1 Score
 SVM	98.91	0.996	0.923	0.958
 MultinomialNB	98.04	0.892	0.972	0.930
@@ -123,7 +123,7 @@ sklearn
 
 collections
 
-🔌 How to Run
+🔌 How to Run .
 
 Upload SMSSpamCollection.txt to your Google Drive.
 
@@ -135,4 +135,4 @@ Run each cell step-by-step for preprocessing, training, and evaluation.
 
 🧾 License
 
-This project is for educational purposes only. Dataset originally published by UCI Machine Learning Repository.
+This project is for educational purposes only. Dataset originally published by UCI Machine Learning Repository...
